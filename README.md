@@ -1,4 +1,4 @@
-# E.S.T.B. aka EzCaptcha Status Telegram Bot by [Tavel](https://tavel.in/en/) and GPT-4o
+# E.S.T.B. aka EzCaptcha Status Telegram Bot by [Tavel](https://tavel.in/en/contacts/) and GPT-4o
 
 This Telegram bot, written entirely using GPT-4o, checks the current status of Outlook's FunCAPTCHA solution via [EzCaptcha](https://dashboard.ez-captcha.com/#/register?inviteCode=VOFNUzlKSNA) API.
 
